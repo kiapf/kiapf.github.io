@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kiapf.github.io/Izj/sitemap.Izj.gz
